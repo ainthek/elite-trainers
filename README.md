@@ -131,7 +131,18 @@ also about my 'progress' with support from elite help desk.
 
 #### Custom Programs
 
-TODO:
+I'm not a road cyclist, I need my own program. In seconds, 
+not minutes or hours intervals.
+
+Trying to do that is very painfull with current UI.
+
+
+TODO: image + issue reported
+
+Also the programs you create in hours, then disappears, and your work is lost.
+
+TODO: images + issue reported
+ 
 
 #### Downloads of My real Videos
 
@@ -140,6 +151,12 @@ TODO:
 #### Apple TV and big screen
 
 TODO:
+
+
+#### Heart rate monitors
+
+TODO: waiting for another Chinese gadget from e-bay
+
 
  
 
