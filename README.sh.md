@@ -1,4 +1,4 @@
-
+echo "
 
 
 # elite-trainers
@@ -141,7 +141,24 @@ TODO:
 
 TODO:
 
+
+#### Heart rate monitors
+
+TODO: waiting for another Chinese gadget from e-bay
+
+
  
+
+
+"
+
+
+
+
+
+
+
+
 
 
 
