@@ -8,6 +8,14 @@ This document describes my personal experiences with bike trainers and specially
 They are wonderful, and I love them and have a big respect to the
 elite company team, for the work they have done and for what they deliver. This is my honest statement, regardless of what you read next. 
 
+# TL;DR
+
+- Yes, buy, they will work for reasonable money.
+- Trouble free ? Yes
+
+... If you are not and IT geek or not in multi-riders, multi-trainers, multi-iphones, 
+multi-sensors and no windows situation as me (but I'm probably crazy in this, right ?).
+
 ## Background Story
 
 I'm a lame cyclist and IT professional with enough passion and money to have: 
@@ -16,7 +24,7 @@ I'm a lame cyclist and IT professional with enough passion and money to have:
 - legal wife with 1 bike (26'' MTB)
 - and me having 2 bikes for my self (24'' BMX and 26'' MTB, which is more line 27,5'' when pumped) 
 
-This range of wheel sizes is my main motivation for choosing elite as 
+This range of wheel sizes is my main motivation for choosing EXCELENT elite as 
 the brand ([see wheel sizes compatibility sheet](TODO: link))
 
 
@@ -100,10 +108,12 @@ measure and display something.
 
 ### My E training
 
-I tried to use 'both variations of my setup' with My E Training application, 
+I tried to use 'both variations of my trainer machines' with My E Training application, 
 which is free , but usable only after paying 10$ a year subscription. (click, click, click I have a full version now with year subscription). And now the 'fun starts'.
 
-This is the official [help](http://www.elite-it.info/myETraining/helpEnglish_v1.htm).
+See my quick click click demo of the app here: <https://youtu.be/5E2mPJ-FtHg>
+
+This is the official (static and obsolete) [help](http://www.elite-it.info/myETraining/helpEnglish_v1.htm).
 
 In the following chapters I will try to comment on usability of each feature and
 also about my 'progress' with support from elite help desk.
@@ -119,17 +129,66 @@ also about my 'progress' with support from elite help desk.
 
 - (cons) it allows you to set only one training machine, one type of sensor and one rider parameters (bike wheel size, weight, age). if you are in my situation having 4 riders with at least 2 bikes, it means switching manually configuration when the riders change. I expect it is more usual to have more riders the smart phones in family, I would suggest to have 'profiles' and being able to switch them quickly (even my 30$ Withings scale have it), so for 300+ $ machine + 10$ SW for a year subscription, that would be a fair requirement. Or not ?
 
+	----------------------------
+
+	Good morning,
+
+	thanks to get in touch with us and for the interest on our product.
+
+	This option is really good, we will strongly take care to put into next app version.
+	Thank you for your suggestion.
+
+	I remain at your disposal.
+
+	Kindly
+
+	Edoardo
+	Elite srl
+	-----------------------------
+	
+	I have 2 trainers and 3 riders using them, each rider has different bike .
+	However i have only one iPhone.
+
+	It would be nice to have option to configure several sets of parameters and save them as profiles and to quickly switch them when we switch rider or trainer.
+
+	Thanx
+
+
+
 ![only one params on one device](./settings/params.jpg)	
 
+#### Settings - using  real cadence sensor
 
-#### Base training sessions
+QUBO DIGITAL SMART B+ has no cadence sensor, not a real one, the cadence is 'approximated'.
+How good is it ? Bad. Bad for BMX sprints, bad for short intervals where you want to measure max rpm achieved in few second sprints.
 
-- (cons) I have 3 items on the screen, why they do not match my large iPhone 6 display ?
+Oh, I'm safe, I own a separate cadence sensor so let's connect it.
+
+Impossible: 
+
+![setup additional BT cadence sensor](./two-bt-sensors/two-bt-sensors.jpg)	
+
+- (cons) - does not support additional cadence sensor over BT, only ANT+, 
+- (cons) built in cadence is approximation which ignores short time peaks, and is not 
+precise enough for spints and max rpm trainings.
+
+<http://www.elite-real.com/en/forum/connecting-additional-bt-not-ant-sensor-qubo-digital-smart-b>
+
+How do I know the cadence from QUBO DIGITAL SMART B+ is not accurate, if I can not connect
+two sensors ? Easy I have 2 devices iPhone connected to external cadence sensor and 
+iPad connected to built in sensor. Just take charts of cadence from both and you will easily see the diffidence.
+
+
+#### Base training sessions (UX - User Experience)
+
+- (cons) UX Design ? Just 3 items on the screen, 
+wand they do not fit in my iPhone 6 'large' display ?
+- (suggestion) Please could you make smaller ? No scroll for 3 items ?
 
 ![simple 3 items not fitting in one screen](./fit-in-screen.jpg)
 
 
-#### Custom Programs
+#### Custom Programs (Horror)
 
 I'm not a road cyclist, I need my own program. In seconds, 
 not minutes or hours intervals.
@@ -152,13 +211,50 @@ TODO:
 
 TODO:
 
+### iOS Not Supported ?
+
+As I have mentioned I gave me + 3 more raiders but only one TV.
+Now with 2 trainers it is a problem of sharing space and screen, so I have 
+naively hoped, I will install My E Training on OSX and have it on my big mac screen.
+Fail. 
+
+- (cons) Elite has no OSX version as far as I know.
+
+Not even in road map ? <http://www.elite-real.com/en/comment/reply/8131/7241>
+
+#### Exports, Sharing
+
+Any UI sucks (in general)
+I want the data and will create my own UI. 
+For my own purposes. What are my chances ?
+
+![picture of 'share' options of the app](./exports/screen.png)
+
+Nice, CSV export (by email) looks like this:
+
+- (pros) exporting as CSV
+- (cons) one by one ? why not exporting multiple sessions ?
+- (suggestion) allow to select multiple items and export at once. Thanx a lot.
+
+
+![picture of csv exported data](./exports/csv.png)
+
 
 #### Heart rate monitors
 
 TODO: waiting for another Chinese gadget from e-bay
 
+### If not (non ideal) My E Training then what ?
 
- 
+![picture of compatible apps](./compat.png)
+
+
+# References
+
+Other reviews covering elite trainers:
+
+- <http://www.dcrainmaker.com/2014/11/winter-trainer-depth.html>
+- <http://sportivecyclist.com/elite-chrono-fluid-elastogel-indoor-trainer-review/> I have loved this one, I have found after writing this one.... ;-))) 
 
 
 "
