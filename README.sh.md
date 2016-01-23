@@ -25,7 +25,7 @@ I'm a lame cyclist and IT professional with enough passion and money to have:
 - and me having 2 bikes for my self (24'' BMX and 26'' MTB, which is more line 27,5'' when pumped) 
 
 This range of wheel sizes is my main motivation for choosing EXCELENT elite as 
-the brand ([see wheel sizes compatibility sheet](TODO: link))
+the brand. See [wheel sizes compatibility sheet](http://cdn.elite-it.com/sites/default/files/elite-compatibilita-rulli-ruote-en_0.pdf).
 
 
 
@@ -247,6 +247,14 @@ TODO: waiting for another Chinese gadget from e-bay
 ### If not (non ideal) My E Training then what ?
 
 ![picture of compatible apps](./compat.png)
+
+- Zwift - Fail - iOS app forces you to install OXS app to register for tieal, 
+just to find out that none of them works with BT and you shell buy ANT+ dongle ? Jokes or my bad, I do not know.
+- Kinomap - Fail -$6 a months - aaaaaa
+- Trainer Road - Fail -99$ ? quit before even trying 
+- bkool - Fail on El Capitan did not pair with built in elite now Chinese gadget over BT
+- TrainerRoad - Fail as well
+
 
 
 # References
