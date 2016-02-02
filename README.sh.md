@@ -11,7 +11,7 @@ elite company team, for the work they have done and for what they deliver. This 
 # TL;DR
 
 - Yes, buy, they will work for reasonable money.
-- Trouble free ? Yes
+- Trouble free ? NO
 
 ... If you are not and IT geek or not in multi-riders, multi-trainers, multi-iphones, 
 multi-sensors and no windows situation as me (but I'm probably crazy in this, right ?).
@@ -157,6 +157,8 @@ also about my 'progress' with support from elite help desk.
 
 ![only one params on one device](./settings/params.jpg)	
 
+- (cons) probably cannot be used at all without speed and cadence sensor, eg. measuring only HR is not possible
+
 #### Settings - using  real cadence sensor
 
 QUBO DIGITAL SMART B+ has no cadence sensor, not a real one, the cadence is 'approximated'.
@@ -193,23 +195,36 @@ wand they do not fit in my iPhone 6 'large' display ?
 I'm not a road cyclist, I need my own program. In seconds, 
 not minutes or hours intervals.
 
-Trying to do that is very painful with current UI.
+- (cons) painful UI to create intervals with current UI.
 
-
-TODO: image + issue reported
+	issue reported
 
 Also the programs you create in hours, then disappears, and your work is lost.
 
-TODO: images + issue reported
+- (cons) Saving program is unreliable (at least, when using more then one device)
 
+	issue reported
 
 #### Downloads of My real Videos
 
-TODO:
+- (cons) terrible access (UX) need to go to menu, no quick access to downloaded videos)
+
+#### Elevation Profiles
+
+-(cons) - totaly unreadable, not min, max, no gridlines, 
+no text indicating current elevation (reported).
+
+![unreadable elevation](elevation-profiles.jpg)
+
 
 #### Apple TV and big screen
 
-TODO:
+I have managed to connect it to apple TV, as well to AirServer running on my iMac.
+So I can use both trainers with bigger screens now.
+However the screens do not rotate, and the landscape screen has a lot of empty spaces around,
+so it seems very silly. I had to post about this on [Facebook](https://www.facebook.com/ainthe.kitchen/posts/1210313258996354).
+
+- (cons) looks stupid on big screen (reported to Elite)
 
 ### iOS Not Supported ?
 
@@ -235,34 +250,37 @@ Nice, CSV export (by email) looks like this:
 - (pros) exporting as CSV
 - (cons) one by one ? why not exporting multiple sessions ?
 - (suggestion) allow to select multiple items and export at once. Thanx a lot.
-
+- (cons) TCX export seems buggy, at least GC team things so, see <https://github.com/GoldenCheetah/GoldenCheetah/issues/1826#event-536594743>
 
 ![picture of csv exported data](./exports/csv.png)
 
 
+
 #### Heart rate monitors
 
-TODO: waiting for another Chinese gadget from e-bay
+- (pros) - tested with Suunto Smart Sensor Bluetooth Heart Rate Monitor, seems to work
 
 ### If not (non ideal) My E Training then what ?
 
 ![picture of compatible apps](./compat.png)
 
-- Zwift - Fail - iOS app forces you to install OXS app to register for tieal, 
+- Zwift - Fail - iOS app forces you to install OXS app to register for trial, 
 just to find out that none of them works with BT and you shell buy ANT+ dongle ? Jokes or my bad, I do not know.
-- Kinomap - Fail -$6 a months - aaaaaa
+- Kinomap - Fail -$6 a months - grrrr
 - Trainer Road - Fail -99$ ? quit before even trying 
 - bkool - Fail on El Capitan did not pair with built in elite now Chinese gadget over BT
-- TrainerRoad - Fail as well
+- TrainerRoad - Fail as well (no not remember must try again)
 
+- GolderCheetah - failed buggy exports (reported)
 
+- (cons) nor TCX nor CSV exported from phone can be easily imported to [GolderCheetah](http://www.goldencheetah.org/)
 
 # References
 
 Other reviews covering elite trainers:
 
 - <http://www.dcrainmaker.com/2014/11/winter-trainer-depth.html>
-- <http://sportivecyclist.com/elite-chrono-fluid-elastogel-indoor-trainer-review/> I have loved this one, I have found after writing this one.... ;-))) 
+- <http://sportivecyclist.com/elite-chrono-fluid-elastogel-indoor-trainer-review/> 
 
 
 "
