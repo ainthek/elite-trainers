@@ -189,6 +189,22 @@ wand they do not fit in my iPhone 6 'large' display ?
 
 ![simple 3 items not fitting in one screen](./fit-in-screen.jpg)
 
+#### Conconi test
+
+After my first try, I have failed to interpret any results on my phone and reported to Elite (issue 7709 !!!)
+
+[Original help for mobile MyETraing app](http://www.elite-it.info/myETraining/helpEnglish_v1.htm), 
+contains some not very precise info, but support team have sent me a 
+[link to Conconi test manual](https://elitesrl.zendesk.com/attachments/token/FmSnRSDs2vJxbH8w9lV2xnUAU/?name=ELITE_1401_0350_MANUALE+CONCONI_TEST+rev05.pdf).
+
+Anyway:
+
+- (cons) graphs on mobile are unreadable
+- (cons) algorithm for scoring (how well you have followed the protocol) shows full score (good) byt results show negative values and other nonsence (TODO: screen shots ?)
+
+
+Export to CSV and excel and some manual work - yes I know how to interpret this, so my 15+15+25 mins biking was not useless and I know my LT based on Conconi. Actually not so different from my FTP test results.
+
 
 #### Custom Programs (Horror)
 
