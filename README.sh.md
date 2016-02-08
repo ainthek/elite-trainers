@@ -205,6 +205,16 @@ Anyway:
 
 Export to CSV and excel and some manual work - yes I know how to interpret this, so my 15+15+25 mins biking was not useless and I know my LT based on Conconi. Actually not so different from my FTP test results.
 
+Look at what I have got from my mobile:
+
+Can you read this ? Again bad labels on Axes in charts, totally unreadable, bad data displayed.
+Negative values and correctness core of 10.
+
+![conconi results](./conconi-01.png)
+
+![conconi results](./conconi-02.png)
+
+
 
 #### Custom Programs (Horror)
 
