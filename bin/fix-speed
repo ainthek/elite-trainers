@@ -1,0 +1,17 @@
+#!/bin/bash
+
+
+
+## fix speed exported in kmph to mps in tcx files
+## needed because https://github.com/GoldenCheetah/GoldenCheetah/issues/1826
+## uses java
+## 
+## Version: 0.1
+## 
+## Usage: 
+## 
+##    fix-speed <route.tcx> 
+
+java -classpath "${0%/*}/saxon9.jar" net.sf.saxon.Transform "$1" "${0%/*}/fix-speed.xslt"
+
+		

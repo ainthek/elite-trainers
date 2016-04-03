@@ -276,9 +276,29 @@ Nice, CSV export (by email) looks like this:
 - (pros) exporting as CSV
 - (cons) one by one ? why not exporting multiple sessions ?
 - (suggestion) allow to select multiple items and export at once. Thanx a lot.
-- (cons) TCX export seems buggy, at least GC team things so, see <https://github.com/GoldenCheetah/GoldenCheetah/issues/1826#event-536594743>
 
 ![picture of csv exported data](./exports/csv.png)
+
+##### Fix Speed (for Golden Cheetah)
+
+- (cons) TCX export seems buggy, at least GC team things so, see <https://github.com/GoldenCheetah/GoldenCheetah/issues/1826#event-536594743>, 
+
+Elite says Strava and Garmin want kmph, GC says that mps is correct by specs.
+Anyway, I'm not waiting for any of the teams to fix this (2 months of no help) so I have created workaround.
+
+To be able to import .tcx files from elite to GC, I gave created small bash script, using Java.
+
+This translates Speed elements from kmph to mps as expected by GC.
+
+![before - incorrect import from tcx in kmph, look at the speed axis, 100 km?](./gc-speed/incorrect-kmph.png)
+
+See ./bin folder or simply run
+
+	./bin/fix-speed ./bin/sample.kmps.tcx > ./bin/sample.mps.tcx
+
+
+![after - correctly imported speed, import from tcx converted to mps](./gc-speed/correct-mps.png)
+
 
 
 
@@ -297,7 +317,7 @@ just to find out that none of them works with BT and you shell buy ANT+ dongle ?
 - bkool - Fail on El Capitan did not pair with built in elite now Chinese gadget over BT
 - TrainerRoad - Fail as well (no not remember must try again)
 
-- GolderCheetah - failed buggy exports (reported)
+- Golden Cheetah - failed buggy exports (reported)
 
 - (cons) nor TCX nor CSV exported from phone can be easily imported to [GolderCheetah](http://www.goldencheetah.org/)
 
