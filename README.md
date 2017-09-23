@@ -106,6 +106,23 @@ measure and display something.
 
 (TODO: numbers will be tested/compared against the Chinese gadget soon)
 
+### Narrow Frames (23.7.2017)
+
+Even if the trainers are targeting sizes from 20'' it seems that narrow frames (like BMX racing bikes) do not fit well from side-to-side position. Even if you are able to clamp them and they hold, they are shifted from center too much. So much that with the rotor already totaly to left, it looks like this (If you ride you may damage plastics of rotor, with anything bigger than 1 1/8 tires).
+
+![](./narrow-frames/IMG_0726.JPG)
+![](./narrow-frames/IMG_0727.JPG)
+
+It would be perfect if elite could provide alternative length for this fixed side of clamp, or just make both sizes adjustable:
+
+![](./narrow-frames/IMG_0130.JPG)
+
+To get it perfectly in the middle (without adjustable shift of rotor)
+we are talking approx about this distance
+
+![](./narrow-frames/IMG_0729.JPG)
+
+
 ### My E training
 
 I tried to use 'both variations of my trainer machines' with My E Training application, 
@@ -320,6 +337,8 @@ just to find out that none of them works with BT and you shell buy ANT+ dongle ?
 - Golden Cheetah - failed buggy exports (reported)
 
 - (cons) nor TCX nor CSV exported from phone can be easily imported to [GolderCheetah](http://www.goldencheetah.org/)
+
+
 
 # References
 
